@@ -11,12 +11,20 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberSpace Geometry Dash 2.1 CTF</title>
+      <link>http://localhost:1313/posts/ctf/cyberspace/geometrydash/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ctf/cyberspace/geometrydash/</guid>
+      <description>This challenge was Forensics Category challenge in CyberSpace CTF 2024 in this challenge we were given a .DAT name ( cat CCLocalLevels.dat) file which was the data of the Geometry Dash. First cat the file then after i tired with the strings Then i tried with the binwalk still didn&amp;rsquo;t got anything So, i google it to execute the .dat file which was provided by the author.
+Then i found this link : https://gdcolon.</description>
+    </item>
     <item>
       <title>CyberSpace Pybash CTF</title>
       <link>http://localhost:1313/posts/ctf/cyberspace/pybash/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ctf/cyberspace/pybash/</guid>
       <description>This challenge was beginner challenge in CyberSpace CTF 2024 in this challenge we need to bypass the bash shell which was created using the python the challenge provided the the source code where [a-zA-Z*^\,,;\\!@/#?%`&amp;quot;\&#39;&amp;amp;()-+]|[^\x00-\x7F] these character we forbid to use. So, as per the situation we have to bypass the bash shell so we need to send payloads for it. What i did was i prompt in the Chatgpt to give payloads for me to bypass the bash jail.</description>
     </item>
