@@ -1,3 +1,12 @@
+---
+title: "CyberSpace Geometry Dash 2.1 CTF"
+date: 2024-09-03
+draft: false
+Tags:
+  - Cyberspace
+  - Writeups
+---
+
     This challenge was Forensics Category challenge in CyberSpace CTF 2024 in this challenge we were given a .DAT name ( cat CCLocalLevels.dat) file  which was the data of the Geometry Dash.
 
 1. First cat the file then after i tired with the strings

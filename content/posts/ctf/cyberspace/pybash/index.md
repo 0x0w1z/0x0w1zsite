@@ -1,9 +1,10 @@
 ---
 title: "CyberSpace Pybash CTF"
-date: 2024-08-10
+date: 2024-09-03
 draft: false
 Tags:
   - Cyberspace
+  - Writeups
 ---
 
 This challenge was beginner challenge in CyberSpace CTF 2024
