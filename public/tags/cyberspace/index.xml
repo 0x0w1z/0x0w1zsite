@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyberspace on 0x0w1z</title>
+    <link>http://localhost:1313/tags/cyberspace/</link>
+    <description>Recent content in Cyberspace on 0x0w1z</description>
+    <image>
+      <title>0x0w1z</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cyberspace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberSpace Pybash CTF</title>
+      <link>http://localhost:1313/posts/ctf/cyberspace/pybash/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ctf/cyberspace/pybash/</guid>
+      <description>This challenge was beginner challenge in CyberSpace CTF 2024 in this challenge we need to bypass the bash shell which was created using the python the challenge provided the the source code where [a-zA-Z*^\,,;\\!@/#?%`&amp;quot;\&#39;&amp;amp;()-+]|[^\x00-\x7F] these character we forbid to use. So, as per the situation we have to bypass the bash shell so we need to send payloads for it. What i did was i prompt in the Chatgpt to give payloads for me to bypass the bash jail.</description>
+    </item>
+  </channel>
+</rss>
