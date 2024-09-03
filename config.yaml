@@ -43,7 +43,7 @@ params:
 
   label:
     text: "0x0w1z"
-    icon: /static/me.png
+    icon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
     iconHeight: 35
 
   # profile-mode
@@ -51,7 +51,7 @@ params:
     enabled: false # needs to be explicitly set
     title: 0x0w1z
     subtitle: "Building and Breaking stuffs for fun and profit"
-    imageUrl: "./static/pfp.jpg"
+    imageUrl: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
