@@ -35,11 +35,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/static/pfp.jpg"
+    favicon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
-    apple_touch_icon: static/pfp.jpg
-    safari_pinned_tab: static/pfp.jpg
+    apple_touch_icon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+    safari_pinned_tab: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
 
   label:
     text: "0x0w1z"
@@ -49,7 +49,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Rezy Dev
+    title: 0x0w1z
     subtitle: "Building and Breaking stuffs for fun and profit"
     imageUrl: "./static/pfp.jpg"
     imageWidth: 120
@@ -68,15 +68,13 @@ params:
 
   socialIcons:
     - name: discord
-      url: "https://discord.com/users/412880625629134855"
+      url: "https://discord.com/users/1006628573920100392"
     - name: x
-      url: "https://x.com/rezydev"
+      url: "https://x.com/RauniyarSarams"
     - name: linkedin
-      url: "https://linkedin.com/in/rezydev"
+      url: "https://www.linkedin.com/in/sarams-rauniyar-42593b220"
     - name: github
-      url: "https://github.com/Rezy-Dev"
-    - name: youtube
-      url: "https://youtube.com/@RezyDev"
+      url: "https://github.com/0x0w1z"
 
   analytics:
     google:
