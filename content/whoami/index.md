@@ -30,4 +30,4 @@
 - Web development 🌐
 - Python Programming 🐍
 
-### **Reach me at:** `falsewizard002[@] gmail.com`
+### **Reach me at:** `falsewizard002 [at] gmail.com`
