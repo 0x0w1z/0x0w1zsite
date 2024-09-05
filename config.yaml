@@ -1,7 +1,13 @@
+baseURL: https://example.com/
+languageCode: en-us
+title: 0x0w1z
+theme: ["PaperMod"]
+enableRobotsTXT: false
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 0x0w1z
-  description: "Writings by 0x0w1z <3"
+  title: Rezy Dev
+  description: "Hi, 0x0w1z! A vault for Security and CTF. NCA{0x0w1z>f14g!?}"
   keywords: [Blog, Portfolio, Writeup]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -27,13 +33,13 @@ params:
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    favicon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
-    safari_pinned_tab: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+      # disableHLJS: true # to disable highlight.js
+      # disableFingerprinting: true
+      favicon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+      favicon16x16: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+      favicon32x32: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+      apple_touch_icon: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
+      safari_pinned_tab: "https://raw.githubusercontent.com/0x0w1z/0x0w1z.github.io/main/static/pfp.jpg"
 
   label:
     text: "0x0w1z"
@@ -55,21 +61,21 @@ params:
       - name: Tags
         url: tags
 
-
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B 0x0w1z Here!"
-    Content: Building and Breaking stuffs for fun and profit
+    Content: Building and Breaking stuffs for fun and profit 
 
   socialIcons:
     - name: discord
       url: "https://discord.com/users/1006628573920100392"
     - name: x
-      url: "https://x.com/RauniyarSarams"
+      url: "https://x.com/wizard_fal23232"
     - name: linkedin
-      url: "https://www.linkedin.com/in/sarams-rauniyar-42593b220"
+      url: "https://www.linkedin.com/in/sarams-rauniyar-42593b220/"
     - name: github
       url: "https://github.com/0x0w1z"
+
 
   analytics:
     google:
@@ -85,7 +91,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/0x0w1z/0x0w1z.github.io/content"
+    URL: "https://github.com/0x0w1z/0x0w1z.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
