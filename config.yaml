@@ -1,9 +1,3 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: 0x0w1z
-theme: ["PaperMod"]
-enableRobotsTXT: false
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 0x0w1z
@@ -61,6 +55,7 @@ params:
       - name: Tags
         url: tags
 
+
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B 0x0w1z Here!"
@@ -107,14 +102,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: 👨🏼‍💻 Whoami
+      url: /whoami/
+      weight: 35
     - identifier: posts
-      name: Posts
+      name: ✍️ Posts
       url: /posts/
-      weight: 10
+      weight: 5
     - identifier: tags
-      name: Tags
+      name: 🏷️ Tags
       url: /tags/
-      weight: 20
+      weight: 30
+    - identifier: search
+      name: 🔍 Search
+      url: /search/
+      weight: 25
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
@@ -125,3 +128,13 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+# needed to ensure different manifestations of the site work. 
+outputs:
+  home:
+  # To create webpages. 
+    - HTML
+  # To create RSS Feed
+    - RSS
+  # To create an index.json so search works on the site
+    - JSON
