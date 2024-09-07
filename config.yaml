@@ -6,13 +6,13 @@ enableRobotsTXT: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Rezy Dev
+  title: 0x0w1z
   description: "Hi, 0x0w1z! A vault for Security and CTF. NCA{0x0w1z>f14g!?}"
   keywords: [Blog, Portfolio, Writeup]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "September 25, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
