@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
-    <generator>Hugo</generator>
-    <language>en</language>
+    <title>0x0w1z</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 0x0w1z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberSpace Geometry Dash 2.1 CTF</title>
-      <link>//localhost:1313/posts/ctf/cyberspace/geometrydash/</link>
+      <link>http://localhost:1313/posts/ctf/cyberspace/geometrydash/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ctf/cyberspace/geometrydash/</guid>
+      <guid>http://localhost:1313/posts/ctf/cyberspace/geometrydash/</guid>
       <description>This challenge was Forensics Category challenge in CyberSpace CTF 2024 in this challenge we were given a .DAT name ( cat CCLocalLevels.dat) file which was the data of the Geometry Dash. First cat the file then after i tired with the strings Then i tried with the binwalk still didn&amp;rsquo;t got anything So, i google it to execute the .dat file which was provided by the author.&#xA;Then i found this link : https://gdcolon.</description>
     </item>
     <item>
       <title>CyberSpace Pybash CTF</title>
-      <link>//localhost:1313/posts/ctf/cyberspace/pybash/</link>
+      <link>http://localhost:1313/posts/ctf/cyberspace/pybash/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ctf/cyberspace/pybash/</guid>
+      <guid>http://localhost:1313/posts/ctf/cyberspace/pybash/</guid>
       <description>This challenge was beginner challenge in CyberSpace CTF 2024 in this challenge we need to bypass the bash shell which was created using the python the challenge provided the the source code where [a-zA-Z*^\,,;\\!@/#?%`&amp;quot;\&#39;&amp;amp;()-+]|[^\x00-\x7F] these character we forbid to use. So, as per the situation we have to bypass the bash shell so we need to send payloads for it. What i did was i prompt in the Chatgpt to give payloads for me to bypass the bash jail.</description>
     </item>
     <item>
       <title>CyberSpace SKK? CTF</title>
-      <link>//localhost:1313/posts/ctf/cyberspace/skk/</link>
+      <link>http://localhost:1313/posts/ctf/cyberspace/skk/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ctf/cyberspace/skk/</guid>
+      <guid>http://localhost:1313/posts/ctf/cyberspace/skk/</guid>
       <description>In this challenge by CyberSpace we were given a picture named enc.png and the python source code which was used to add shapes or used make the picture pixelated, the encoded picture looked like this.&#xA;The python code which was provided and the one which was used to encode this was this :&#xA;import numpy as np import cv2 import random from datetime import datetime img = cv2.imread(&amp;#39;flag.png&amp;#39;) size_x, size_y = img.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/posts/ctf/cyberspace/whoami/</link>
+      <link>http://localhost:1313/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ctf/cyberspace/whoami/</guid>
+      <guid>http://localhost:1313/whoami/</guid>
       <description>██████╗ ██╗ ██╗ ██████╗ ██╗ ██╗ ██╗███████╗ ██╔═████╗╚██╗██╔╝██╔═████╗██║ ██║███║╚══███╔╝ ██║██╔██║ ╚███╔╝ ██║██╔██║██║ █╗ ██║╚██║ ███╔╝ ████╔╝██║ ██╔██╗ ████╔╝██║██║███╗██║ ██║ ███╔╝ ╚██████╔╝██╔╝ ██╗╚██████╔╝╚███╔███╔╝ ██║███████╗ ╚═════╝ ╚═╝ ╚═╝ ╚═════╝ ╚══╝╚══╝ ╚═╝╚══════╝ Cyber Sec nerd | Web Dev | CTF Player 🛡️ Personals: My legal name is Sarams Rauniyar 🙋 I&amp;rsquo;m from Nepal 🇳🇵 Current Hustles: 🧑🏻‍💻 Learning Web development | Learning Reverse Engineering &amp;lt;/&amp;gt; Binary | Python | Javascript On My Radar: 🚀 Developement of Web Pages | Forensics 🛠️ Always after the next CTF challenge!</description>
     </item>
     <item>
       <title>Search</title>
-      <link>//localhost:1313/posts/ctf/cyberspace/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/ctf/cyberspace/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description></description>
     </item>
   </channel>
