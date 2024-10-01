@@ -23,3 +23,5 @@ So, there is something suspicious in both headers what needed to be done was pla
 because as it says **Special** it will give output like this.
 ![](2.png)
 Well, there are many thing which is encoded in come kind of ciphers but there was really something suspicious in those ciphers those were this `{}`why there was 2 cipher code inside`{}`that was the suspicious part of the output. So, what should be doing that we need to decode that code inside the`{}` `9EEADi^^3:E]`&`=J^b|!h|sf`this code was encoded using the **ROT 47** so, we need to decode the code i prefer to use`https://gchq.github.io/CyberChef/`to decode the ciphers.
+
+Note : **This is incomplete writeup of xclusive-headers will be add comeplete writeup soon thankyou.**
