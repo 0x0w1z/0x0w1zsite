@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NCA-CTF on 0x0w1z</title>
+    <link>http://localhost:1313/tags/nca-ctf/</link>
+    <description>Recent content in NCA-CTF on 0x0w1z</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nca-ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCA-CTF Xclusive-Headers</title>
+      <link>http://localhost:1313/posts/created_ctfs/xculsive-headers/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/created_ctfs/xculsive-headers/</guid>
+      <description>This challenge was made for the CTF which was organised by our team NCA@Nepal. This challenge was a Forensics challenge where the players were given the PCAP file with the various images of clues and the scene behind the challenge.&#xA;Well, to solve this challenge players were needed to go through 2 challenge firstly, analyse the challenge which was given using Wireshark which will show us the packets. After launching the Wireshark and analyzing some of the packet we can see 2 kind of header, as the name says ( Xclusive headers ) there are something to do with the headers.</description>
+    </item>
+  </channel>
+</rss>

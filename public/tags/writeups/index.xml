@@ -6,8 +6,15 @@
     <description>Recent content in Writeups on 0x0w1z</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCA-CTF Xclusive-Headers</title>
+      <link>http://localhost:1313/posts/created_ctfs/xculsive-headers/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/created_ctfs/xculsive-headers/</guid>
+      <description>This challenge was made for the CTF which was organised by our team NCA@Nepal. This challenge was a Forensics challenge where the players were given the PCAP file with the various images of clues and the scene behind the challenge.&#xA;Well, to solve this challenge players were needed to go through 2 challenge firstly, analyse the challenge which was given using Wireshark which will show us the packets. After launching the Wireshark and analyzing some of the packet we can see 2 kind of header, as the name says ( Xclusive headers ) there are something to do with the headers.</description>
+    </item>
     <item>
       <title>CyberSpace Geometry Dash 2.1 CTF</title>
       <link>http://localhost:1313/posts/ctf/cyberspace/geometrydash/</link>
@@ -28,6 +35,13 @@
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/ctf/cyberspace/skk/</guid>
       <description>In this challenge by CyberSpace we were given a picture named enc.png and the python source code which was used to add shapes or used make the picture pixelated, the encoded picture looked like this.&#xA;The python code which was provided and the one which was used to encode this was this :&#xA;import numpy as np import cv2 import random from datetime import datetime img = cv2.imread(&amp;#39;flag.png&amp;#39;) size_x, size_y = img.</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/posts/ctf/rstcon/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ctf/rstcon/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
