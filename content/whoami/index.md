@@ -19,6 +19,7 @@
 
 - 🧑🏻‍💻 Learning Web development | Learning Reverse Engineering
 - </> Assembly | Python | Javascript
+- 🗡 Bug Hunting
 
 ### **On My Radar:**
 
